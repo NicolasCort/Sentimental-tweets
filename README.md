@@ -53,8 +53,7 @@ tweets = api.search(q="Ukraine", lang="en", count=100)
 
 
 
-## License
-This project is licensed under the [MIT License ](https://choosealicense.com/licenses/mit/) - see the LICENSE.md file for details.
+
 
 
 
