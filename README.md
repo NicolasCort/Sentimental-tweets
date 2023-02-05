@@ -50,13 +50,7 @@ To change the topic for the sentimental tweets you change the variable "q"
 tweets = api.search(q="Ukraine", lang="en", count=100)
 
 ```
-## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 ## License
