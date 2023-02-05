@@ -1,6 +1,6 @@
 # Sentimental Tweets
 
-A sentiment analysis tool for tweets using machine learning algorithms
+A sentiment analysis tool for tweets using Transformers and tweepy
 
 
 
